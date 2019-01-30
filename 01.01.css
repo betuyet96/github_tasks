@@ -1,0 +1,52 @@
+h1 {
+    color: navy;
+    margin: 180px;
+    text-align: center;
+}
+
+.intro {
+    background: url(HN.jpg);
+    background-size: cover;
+}
+#p0 { 
+    color: white;
+    margin-bottom: 100px;
+    margin-left: 180px;
+    width: 700px;
+}
+
+h2 {
+    color: rgb(111, 129, 206);
+    margin-left: 180px;
+    margin-bottom: 50px;
+}
+
+.todo1 {
+    margin-left: 180px;
+    margin-bottom: 50px;
+    width: 1400px;
+}
+
+#img1 {
+    float: right;
+}
+
+#p1 {
+    width: 700px;
+    margin-bottom: 500px;
+}
+
+.todo2 {
+    margin: 180px;
+    width: 1400px;
+}
+
+#p2 {
+    width: 700px;
+    margin-bottom: 50px;
+    float: right;
+}
+
+footer {
+    margin: 180px;
+}
